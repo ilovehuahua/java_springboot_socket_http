@@ -1,0 +1,2 @@
+# java_springboot_socket_http
+基于spring-boot框架写的websocket服务和http服务，可通过http服务先指定socket客户端推送消息。
